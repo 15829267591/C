@@ -1,0 +1,6 @@
+﻿  test.cpp
+c:\users\hu yefan\source\repos\11_24\11_24\test.cpp(199): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\hu yefan\source\repos\11_24\11_24\test.cpp(340): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hu yefan\source\repos\11_24\11_24\test.cpp(350): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hu yefan\source\repos\11_24\11_24\test.cpp(350): warning C4552: ”<“: 未使用表达式结果
+  11_24.vcxproj -> C:\Users\Hu Yefan\source\repos\11_24\Debug\11_24.exe

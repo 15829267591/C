@@ -1,0 +1,10 @@
+﻿  TextSimilarity.cpp
+c:\users\hp\source\repos\textsimiliar\textsimiliar\textsimilarity.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\source\repos\textsimiliar\textsimiliar\textsimilarity.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\hp\source\repos\textsimiliar\textsimiliar\textsimilarity.cpp(180): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 2854 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  TextSimiliar.vcxproj -> C:\Users\hp\source\repos\TextSimiliar\Release\TextSimiliar.exe
